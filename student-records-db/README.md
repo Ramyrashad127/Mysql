@@ -61,11 +61,5 @@ Each `.sql` file contains a query that solves a real-world problem using the dat
 ## ✍️ Author
 
 Ramy Mohamed  
-GitHub: [your-github-username]  
+GitHub: [Ramyrashad127]  
 Date Created: July 2025
-
----
-
-## ✅ License
-
-This project is for educational and practice purposes. No license required.
