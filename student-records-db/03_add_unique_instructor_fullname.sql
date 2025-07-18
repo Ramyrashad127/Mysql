@@ -1,0 +1,1 @@
+Alter TABLE instructor ADD UNIQUE(FullName);

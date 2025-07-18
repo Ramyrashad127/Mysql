@@ -1,0 +1,1 @@
+ALTER TABLE student ALTER COLUMN Level set default 'first';

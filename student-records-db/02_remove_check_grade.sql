@@ -1,0 +1,1 @@
+ALTER TABLE Enrollment DROP CONSTRAINT enrollment_chk_1;
