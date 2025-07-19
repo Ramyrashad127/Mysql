@@ -1,8 +1,11 @@
+
 # 🎓 Student Records Database
 
 This project is a MySQL database schema for managing a university's student records. It covers students, instructors, courses, departments, enrollments, and phone numbers — designed for practice, education, and query experimentation.
 
-## 🗂️ Project Structure
+## 📁 Project Structure
+
+All files are located in a single folder: `student-records-db/`
 
 ```
 student-records-db/
@@ -12,7 +15,12 @@ student-records-db/
 ├── query_top_students_per_course.sql # Problem 2
 ├── query_student_count_per_level.sql # Problem 3
 ├── query_instructors_courses.sql     # Problem 4
-└── README.md                         # Project overview
+├── 01_add_default_level.sql          # Problem 5
+├── 02_remove_check_grade.sql         # Problem 6
+├── 03_add_unique_instructor_fullname.sql  # Problem 7
+├── student_transcripts_view.sql      # Problem 8
+├── department_summary_view.sql       # Problem 9
+├── course_instructor_view.sql        # Problem 10
 ```
 
 ## 🧱 Database Schema
