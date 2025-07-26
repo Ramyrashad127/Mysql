@@ -21,6 +21,14 @@ student-records-db/
 ├── student_transcripts_view.sql      # Problem 8
 ├── department_summary_view.sql       # Problem 9
 ├── course_instructor_view.sql        # Problem 10
+├── get_student_courses_procedure.sql # Problem 11
+├── calculate_student_gpa_procedure.sql # Problem 12
+├── fn_check_passed.sql               # Problem 13
+├── fn_course_count.sql               # Problem 14
+├── fn_student_info.sql               # Problem 15
+├── trigger_after_student_insert.sql  # Problem 16
+├── trigger_before_student_insert.sql # Problem 17
+├── update_grade_transaction.sql      # Problem 18
 ```
 
 ## 🧱 Database Schema
